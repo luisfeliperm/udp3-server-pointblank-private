@@ -1,0 +1,11 @@
++++++BattleErrorMessage++++++
+0x8000100B = [EVENT_ERROR_FIRST_HOLE] Não foi possível ingressar no líder da sala. \ NGo to Waiting Room.
+
+0x8000100A = [EVENT_ERROR_FIRST_MAINLOAD] A entrada no jogo não ocorreu.
+
+
+0x80001006 = [EVENT_ERROR_EVENT_BATTLE_TIMEOUT_CN] O jogo acabou devido a problemas de rede.
+
+
+EVENT_ERROR_EVENT_BATTLE_TIMEOUT_CS(0x80001007); ??
+

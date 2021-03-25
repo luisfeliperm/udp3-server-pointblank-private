@@ -1,0 +1,58 @@
+[19-12-15 00:13:49] [Closed Connection] Tempo de resposta excedido 10.10.10.100:57187
+[19-12-15 16:52:56] [Seed] Recebido: 3084; Esperava-se: 550 - 10.10.10.100
+[19-12-15 16:55:42] [Seed] Recebido: 3084; Esperava-se: 11631 - 10.10.10.100
+[19-12-15 16:57:16] [Seed] Recebido: 36108; Esperava-se: 30351 - 10.10.10.100
+[19-12-15 16:57:35] [Seed] Recebido: 52748; Esperava-se: 8421 - 10.10.10.100
+[19-12-15 16:59:36] [Seed] Recebido: 19468; Esperava-se: 13645 - 10.10.10.100
+[19-12-15 17:00:21] [Seed] Recebido: 3340; Esperava-se: 5778 - 10.10.10.100
+[19-12-15 17:00:36] [Seed] Recebido: 3084; Esperava-se: 225 - 10.10.10.100
+[19-12-15 17:00:39] [Seed] Recebido: 3084; Esperava-se: 12570 - 10.10.10.100
+[19-12-15 17:00:40] [Seed] Recebido: 3084; Esperava-se: 22241 - 10.10.10.100
+[19-12-15 17:00:41] [Seed] Recebido: 3084; Esperava-se: 8495 - 10.10.10.100
+[19-12-15 17:00:42] [Seed] Recebido: 3084; Esperava-se: 21895 - 10.10.10.100
+[19-12-15 17:00:42] [Seed] Recebido: 3084; Esperava-se: 17154 - 10.10.10.100
+[19-12-15 17:00:59] [Seed] Recebido: 3084; Esperava-se: 17480 - 10.10.10.100
+[19-12-15 17:01:00] [Seed] Recebido: 3084; Esperava-se: 11533 - 10.10.10.100
+[19-12-15 17:01:16] [Seed] Recebido: 3340; Esperava-se: 23113 - 10.10.10.100
+[19-12-15 17:01:25] [Seed] Recebido: 3084; Esperava-se: 8115 - 10.10.10.100
+[19-12-15 17:01:26] [Seed] Recebido: 3084; Esperava-se: 603 - 10.10.10.100
+[19-12-15 17:01:36] [Seed] Recebido: 3084; Esperava-se: 21410 - 10.10.10.100
+[19-12-15 17:03:44] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [3469]
+[19-12-15 17:07:42] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [3469]
+[19-12-15 17:09:54] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [35916]
+[19-12-15 17:10:04] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [3469]
+[19-12-15 17:10:12] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [3598]
+[19-12-15 17:10:20] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [3598]
+[19-12-15 17:10:30] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [19788]
+[19-12-15 17:10:39] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [52364]
+[19-12-15 17:10:50] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [36109]
+[19-12-15 17:11:01] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [19468]
+[19-12-15 17:11:10] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [36172]
+[19-12-15 17:11:28] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60285
+[19-12-15 17:11:33] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60286
+[19-12-15 17:15:50] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60298
+[19-12-15 17:16:14] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60300
+[19-12-15 17:16:21] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [3405]
+[19-12-15 17:16:28] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [3405]
+[19-12-15 17:17:45] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60304
+[19-12-15 17:18:21] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60305
+[19-12-15 17:19:00] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60306
+[19-12-15 17:19:18] 10.10.10.100 Primeiro pacote nao recebido, conexao finalizada. [3469]
+[19-12-15 17:21:23] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60313
+[19-12-15 17:42:25] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60416
+[19-12-15 17:45:18] [Closed Connection] Tempo de resposta excedido 10.10.10.100:60433
+[19-12-15 17:50:43] [Seed] Recebido: 31540; Esperava-se: 31539 - 10.10.10.100
+[19-12-15 19:21:11] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61171
+[19-12-15 20:47:15] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61455
+[19-12-15 20:47:50] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61456
+[19-12-15 20:49:32] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61457
+[19-12-15 20:50:14] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61461
+[19-12-15 20:50:28] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61462
+[19-12-15 20:52:03] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61463
+[19-12-15 20:56:16] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61477
+[19-12-15 20:56:42] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61480
+[19-12-15 20:56:50] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61481
+[19-12-15 21:01:19] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61523
+[19-12-15 21:02:50] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61524
+[19-12-15 21:03:26] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61526
+[19-12-15 21:22:59] [Closed Connection] Tempo de resposta excedido 10.10.10.100:61578

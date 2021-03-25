@@ -1,0 +1,23 @@
+23/11/19 
+ServerIsClosed comentado do game (Sempre é false)
+
+18-19/11/19 
+(alterado o sistema de ServerXML)
+Removido o info_gameservers do core e da battle
+Novo sistema de BattleList; Alterado do xml pra json
+
+
+/////
+adicionado block no base_login_rec e login_client
+sistema de Welcome
+comando slot fantasma
+Mensagem geral pra sala ao entrar player [PlayerRead]
+adicionado Write in Line no Log.Printf
+Setar contas online ao iniciar game - Incompleto
+
+Log de informações 26-27/10/2019
+
+Ultimas coisas que mexi no server
+
+
+{Pausa pra estudar :) }

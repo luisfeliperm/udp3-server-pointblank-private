@@ -1,0 +1,12 @@
+Errou login > 5 vezes bloqueia
+bug do clan
+sync (Mudar para 1byte, comunicaçao local)
+nick default NULL
+Passar algumas config da db pra XML
+
+
+
+Novo sistema de ranking
+BattleHandler:
+	EnableLog
+	if packet.lenht!=

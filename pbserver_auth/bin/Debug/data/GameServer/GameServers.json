@@ -1,0 +1,23 @@
+[
+  {
+    "js_serverId":      0,
+    "js_state":         1,
+    "js_type":          1,
+    "js_PublicIP":      "10.10.10.101",
+    "js_Port":          39190,
+    "js_maxPlayers":    100,
+    "js_IPSync":        "10.10.10.101",
+    "js_PortSync":      1918
+  },
+  
+  {
+    "js_serverId":      1,
+    "js_state":         1,
+    "js_type":          1,
+    "js_PublicIP":     "10.10.10.101",
+    "js_Port":         39192,
+    "js_maxPlayers":   100,
+    "js_IPSync":       "10.10.10.101",
+    "js_PortSync":     1919
+  }
+]

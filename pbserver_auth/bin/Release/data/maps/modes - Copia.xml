@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+<map mode="0" tag="0" enable="false" /> <!-- ?? -->
+<map mode="4525" tag="0" enable="true" /> <!-- Porto Akaba 429-->
+<map mode="425" tag="0" enable="true" /> <!-- Red Rock 393-->
+<map mode="4493" tag="0" enable="true" /> <!-- Old Library -->
+<map mode="4141" tag="0" enable="true" /> <!-- Mstation -->
+<map mode="1" tag="0" enable="true" /> <!-- Midnight Zone -->
+<map mode="140" tag="0" enable="true" /> <!-- Uptown -->
+<map mode="4524" tag="0" enable="true" /> <!-- Burning Hall 428-->
+<map mode="140" tag="0" enable="true" /> <!-- Dsquad -->
+<map mode="4268" tag="0" enable="true" /> <!-- Crackdown -->
+<map mode="13" tag="0" enable="true" /> <!-- Saint Mansion -->
+<map mode="172" tag="0" enable="true" /> <!-- Eastern Road 140-->
+<map mode="8" tag="0" enable="false" /> <!-- Downtown 4096-->
+<map mode="8" tag="0" enable="false" /> <!-- Luxville 8192-->
+<map mode="8" tag="0" enable="false" /> <!-- Blow City 16384-->
+<map mode="8" tag="0" enable="false" /> <!-- Storm Tube 32768-->
+
+<map mode="8" tag="0" enable="true" /> <!-- Erro             1-->
+<map mode="8" tag="0" enable="false" /> <!-- Breakdown        2-->
+<map mode="172" tag="0" enable="true" /> <!-- Training Camp 140-->
+<map mode="8" tag="0" enable="false" /> <!-- Sentry Base      8-->
+<map mode="4520" tag="0" enable="true" /> <!-- Desert Camp 4488-->
+<map mode="8" tag="0" enable="true" /> <!-- Kick Point -->
+<map mode="140" tag="0" enable="true" /> <!-- Face Rock -->
+<map mode="168" tag="0" enable="true" /> <!-- Supply Base 136-->
+<map mode="0" tag="0" enable="false" /> <!-- SandStorm        256-->
+<map mode="132" tag="0" enable="true" /> <!-- 25 Downtown 128-->
+<map mode="132" tag="0" enable="true" /> <!-- Luxville -->
+<map mode="128" tag="0" enable="true" /> <!-- Out Post -->
+<map mode="132" tag="0" enable="true" /> <!-- Blow City -->
+<map mode="128" tag="0" enable="true" /> <!-- Storm Tube   8192-->
+<map mode="128" tag="0" enable="true" /> <!-- Sentry Base -->
+<map mode="132" tag="0" enable="true" /> <!-- Hospital -->
+
+<map mode="132" tag="0" enable="true" /> <!-- Downtown2 -->
+<map mode="128" tag="0" enable="true" /> <!-- 33 ShoppingCenter -->
+<map mode="132" tag="0" enable="true" /> <!-- SandStorm -->
+<map mode="128" tag="0" enable="true" /> <!-- Breakdown -->
+<map mode="128" tag="1" enable="true" /> <!-- Erro 2        16-->
+<map mode="128" tag="1" enable="true" /> <!-- Erro 3        32-->
+<map mode="128" tag="0" enable="true" /> <!-- Helispot    64-->
+<map mode="128" tag="0" enable="true" /> <!-- Black Panther -->
+<map mode="0" tag="0" enable="true" /> <!-- Breeding Nest -->
+<map mode="0" tag="0" enable="true" /> <!-- Dino Uptown -->
+<map mode="0" tag="0" enable="true" /> <!-- Dino Breakdown -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 4           2048-->
+<map mode="0" tag="0" enable="false" /> <!-- Tutorial         4096-->
+<map mode="0" tag="0" enable="false" /> <!-- ShoppingCenter   8192-->
+<map mode="392" tag="0" enable="true" /> <!-- Safari -->
+<map mode="140" tag="0" enable="true" /> <!-- DragonAlley -->
+
+
+<map mode="132" tag="0" enable="true" /> <!-- MachuPicchu -->
+<map mode="0" tag="0" enable="true" /> <!-- CargoShip -->
+<map mode="140" tag="0" enable="true" /> <!-- Two Towers -->
+<map mode="0" tag="0" enable="true" /> <!-- Crackdown          8-->
+<map mode="0" tag="0" enable="true" /> <!-- Saint Mansion      16-->
+<map mode="0" tag="0" enable="true" /> <!-- D Squad           32-->
+<map mode="0" tag="0" enable="true" /> <!-- Porto Akaba       64-->
+<map mode="0" tag="0" enable="false" /> <!-- Mstation           128-->
+<map mode="0" tag="0" enable="true" /> <!-- Training Camp    256-->
+<map mode="136" tag="0" enable="true" /> <!-- AngkorRuins -->
+<map mode="0" tag="0" enable="false" /> <!-- RedRock            1024-->
+<map mode="0" tag="0" enable="false" /> <!-- Safari             2048-->
+<map mode="140" tag="0" enable="true" /> <!-- Ghost Town -->
+<map mode="140" tag="0" enable="true" /> <!-- GrandBazzar -->
+<map mode="0" tag="0" enable="true" /> <!-- DinoLab        16384-->
+<map mode="140" tag="0" enable="true" /> <!-- Under23 -->
+
+
+<map mode="140" tag="0" enable="true" /> <!-- TaipeiCityMall -->
+<map mode="396" tag="0" enable="true" /> <!-- Safari2 -->
+<map mode="128" tag="0" enable="true" /> <!-- Airport -->
+<map mode="0" tag="0" enable="false" /> <!-- Safari2            8-->
+<map mode="140" tag="0" enable="true" /> <!-- Metrô -->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5             32-->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-1           64-->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-2           128-->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-3           256-->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-4           512-->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-5           1024-->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 5-6           2048-->
+<map mode="0" tag="0" enable="false" /> <!-- Erro 6             4096-->
+<map mode="140" tag="0" enable="true" /> <!-- Rush Hour -->
+<map mode="140" tag="0" enable="true" /> <!-- Cargo Port   16384-->
+<map mode="140" tag="0" enable="true" /> <!-- Black Mamba  32768-->
+
+<map mode="128" tag="0" enable="true" /> <!-- 80 Safe House       1-->
+<map mode="0" tag="0" enable="false" /> <!-- BloodyHoliday      2-->
+<map mode="132" tag="0" enable="true" /> <!-- WestStation      4-->
+<map mode="128" tag="0" enable="true" /> <!-- Hard Rock        8-->
+<map mode="132" tag="0" enable="true" /> <!-- HouseMuseum     16-->
+<map mode="140" tag="0" enable="true" /> <!-- Parque Assombrado 32-->
+<map mode="132" tag="0" enable="true" /> <!-- RothenVillage   64-->
+<map mode="128" tag="0" enable="false" /> <!-- 87                 128-->
+<map mode="4236" tag="0" enable="true" /> <!-- 88 WaterComplex    256-->
+<map mode="0" tag="0" enable="true" /> <!-- 89 HotelCamuflage  512-->
+<map mode="140" tag="0" enable="true" /> <!-- Battleship -->
+<map mode="128" tag="0" enable="false" /> <!-- 91                2048-->
+<map mode="128" tag="0" enable="true" /> <!-- 92 Ballistic      4096-->
+<map mode="4236" tag="0" enable="true" /> <!-- 93 RampartTown    8192-->
+<map mode="132" tag="0" enable="true" /> <!-- FalluCity -->
+<map mode="0" tag="0" enable="false" /> <!-- 95                 32768-->
+
+<map mode="0" tag="0" enable="false" /> <!-- 96                 1-->
+<map mode="0" tag="0" enable="false" /> <!-- 97                 2-->
+<map mode="140" tag="0" enable="true" /> <!-- 98 Hindrance     4-->
+<map mode="1024" tag="0" enable="true" /> <!-- Esgotos         8-->
+<map mode="4524" tag="0" enable="true" /> <!-- Favela          16-->
+<map mode="4524" tag="0" enable="true" /> <!-- 101 New Library     32-->
+<map mode="0" tag="1" enable="false" /> <!-- 102 C_Sandstorm     64-->
+<map mode="0" tag="1" enable="false" /> <!-- 103 Dinoruins     128-->
+<map mode="4136" tag="1" enable="true" /> <!-- 104 Fatal Zone     256-->
+<map mode="8" tag="1" enable="false" /> <!-- 105 Marine Wave     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 106 Still Raid    512-->
+<map mode="8" tag="1" enable="false" /> <!-- 107 Old Dock     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 108 bug     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 109 Ampera Bridge     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 110 Mihawk     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 111 Broken Alley     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 112 Provence     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 113 M_Brigde     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 114 Mihawk     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 115 TheStadium    512-->
+<map mode="8" tag="1" enable="false" /> <!-- 116 RoadSide     512-->,
+<map mode="8" tag="1" enable="false" /> <!-- 117 InfectAirport     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 118 Junkyard     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 119 FortSantiago     512-->
+<map mode="8" tag="1" enable="true" /> <!-- 120 NewCrackdown     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 121 Hospital     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 122 Octango     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 123 Octango     512-->
+<map mode="8" tag="1" enable="false" /> <!-- 124 Octango     512-->
+</list>

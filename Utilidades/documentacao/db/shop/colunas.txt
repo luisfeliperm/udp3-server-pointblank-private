@@ -1,0 +1,27 @@
+good_id		Automatico (Deixe em branco)
+item_id		ID da arma
+item_name	Nome da arma
+price_gold	Preço em GOLD
+price_cash	Preço em cash
+count		Quantidade (Leia seção #1)
+buy_type:	1 Por unidade
+		2 Por dias	
+		3 LIMITADO, só compra uma vez
+		4 Nao compra
+buy_type2:	??
+buy_type3:	??
+tag:		0 normal
+		1 [New]
+		2 Hot
+		3 Event
+		4 PcRoom
+		5 Sale
+		6>
+
+Visibility:	0 normal
+		2 ??
+		3 ??
+		4 ??
+
+Seção #1
+No count, se o buytive for por unidades, coloque 100 para 100 unidades. Se for em dias, coloque em segundos, exemplo: 3 dias 259200.

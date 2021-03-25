@@ -1,0 +1,71 @@
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\pbserver_battle.exe.config
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\pbserver_battle.exe
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\pbserver_battle.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\Npgsql.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\SharpDX.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\System.ValueTuple.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\Npgsql.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\Npgsql.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\SharpDX.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\bin\Debug\System.ValueTuple.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\obj\Debug\pbserver_battle.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\obj\Debug\pbserver_battle.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\obj\Debug\pbserver_battle.csproj.CopyComplete
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\obj\Debug\pbserver_battle.exe
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_battle\obj\Debug\pbserver_battle.pdb
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\pbserver_battle.exe.config
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\pbserver_battle.exe
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\pbserver_battle.pdb
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\Npgsql.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\SharpDX.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\System.ValueTuple.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\Npgsql.pdb
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\Npgsql.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\SharpDX.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\bin\Debug\System.ValueTuple.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\obj\Debug\pbserver_battle.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\obj\Debug\pbserver_battle.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\obj\Debug\pbserver_battle.csproj.CopyComplete
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\obj\Debug\pbserver_battle.exe
+C:\Users\luisf\Desktop\Server Client\pbserver_battle\obj\Debug\pbserver_battle.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\pbserver_battle.exe.config
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\pbserver_battle.exe
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\pbserver_battle.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\Npgsql.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\pbserver_core.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\SharpDX.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\System.ValueTuple.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\pbserver_core.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\pbserver_core.dll.config
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\Npgsql.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\Npgsql.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\SharpDX.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\System.ValueTuple.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\obj\Debug\pbserver_battle.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\obj\Debug\pbserver_battle.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\obj\Debug\pbserver_battle.csproj.CopyComplete
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\obj\Debug\pbserver_battle.exe
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\obj\Debug\pbserver_battle.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\bin\Debug\pbserver_battle.exe.config
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\bin\Debug\pbserver_battle.exe
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\bin\Debug\pbserver_battle.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_battle\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,5 @@
++=+=+=+=++=+=+=+=++=+=+=+=++=+=+=+=++=+=+=+=++=+=+=+=+
++=+=+=+=++=+=+=+=+ Inventário dos jogadores +=+=+=+=++=+=+=
+
+-- PlayerItems
+	- category       1 armas | 2 Personagens | 3 Items

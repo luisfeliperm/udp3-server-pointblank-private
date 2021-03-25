@@ -1,0 +1,8 @@
+removed = bloqueado ( Se bloquear, quem mandou solicitação fica com o amigo na lista mas sempre offline)
+
+
+2 Envio Pendente
+
+1 Solicitação
+
+0 Aceito

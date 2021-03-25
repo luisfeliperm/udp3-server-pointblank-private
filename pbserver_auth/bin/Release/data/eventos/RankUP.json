@@ -1,0 +1,27 @@
+// https://jsonformatter.curiousconcept.com/
+// Formatado da data
+// Exemplo: dia 03/07/2019 12:30 Ficaria assim 1907031230
+
+// Atualizado 22/07 luis
+
+
+//  22/07/2019 21:53
+
+// ano\mes\dia\ hora\ min
+// 19 07 22 21 53
+[
+  {
+    "ativo":        true, // Vai até 29/07/19 09:00
+    "porcent_xp":   5000,
+    "porcent_gp":   5000,
+    "inicio":       1911040900,
+    "fim":          1911081700
+  },
+  {
+    "ativo":        true,
+    "porcent_xp":   10000,
+    "porcent_gp":   5000,
+    "inicio":       1911081700,
+    "fim":          1911110900
+  }
+]

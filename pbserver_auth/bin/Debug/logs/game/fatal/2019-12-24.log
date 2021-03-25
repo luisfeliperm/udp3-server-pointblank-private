@@ -1,0 +1,8 @@
+[19-12-24 12:22:46] System.Net.Sockets.SocketException (0x80004005): O endereço solicitado não é válido no contexto
+   em System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   em System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   em Game.GameManager.Start() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\GameManager.cs:linha 23
+[19-12-24 12:24:25] System.Net.Sockets.SocketException (0x80004005): O endereço solicitado não é válido no contexto
+   em System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   em System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   em Game.GameManager.Start() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\GameManager.cs:linha 23

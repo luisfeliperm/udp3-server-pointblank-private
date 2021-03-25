@@ -1,0 +1,19 @@
+[19-12-19 19:35:27] System.TimeoutException: O tempo limite da operação acabou.
+   em Npgsql.NpgsqlConnector.Connect(NpgsqlTimeout timeout)
+   em Npgsql.NpgsqlConnector.<RawOpen>d__153.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.NpgsqlConnector.<Open>d__149.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em Npgsql.ConnectorPool.<AllocateLong>d__19.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.NpgsqlConnection.<>c__DisplayClass32_0.<<Open>g__OpenLong|0>d.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em Npgsql.NpgsqlConnection.Open()
+   em Core.managers.events.EventVisitSyncer.GenerateList() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\managers\events\EventVisitSyncer.cs:linha 22

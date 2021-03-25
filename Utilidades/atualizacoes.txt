@@ -1,0 +1,67 @@
+----- Atualizado -----
+4.0.0 (23/11/19)
+- Novo sistema de detalhes do server remoto (Para dev)
+- Novo sistema de server list
+- Novo sistema de sincronia entre os servidores [SYNC]
+- Adicionado suporte ao auto-login via launcher
+- Melhorias na segurança
+- Nova função de mensagem de boas vindas ao entrar no server
+- Correção de bug do status da conta online ao fechar server [Incompleto]
+- Novos comandos no console
+- Porcetagem de XP dos vip configuravel
+- Novo sistema de segurança das portas [Protection API]
+- API Cash 
+
+v3.0.0 (03/10/19)
+- Segurança com Hash
+- Ping Full
+- Novo sistema de log
+- Ant Free Kill
+- API Firewall
+- sistema de licença
+- Melhoria no sistema
+
+v2.3.0 (06/07/19)
+- Auto Ban e dc
+- Correção de bugs
+- Otimização
+- Melhoria na segurança contra bots
+
+v.2.2.1 (19/07/19)
+++ Correção de bugs
+++ Melhorias no sistema
+
+v.2.2.0 (12/07/19)
+Comandos removidos
+Novo sistema de banimento e block
+Sistema de amigos melhorado
+RankUp recriado
+PlayTime removido
+
+v.2.1.0
+++ novo sistema de regras
+++ Bug de regras camp, 79... Dentro da sala
+++ melhorias nos sistemas
+++ Codigo otimizado
+++ Filtro de nick
+
+v2.0.0
+++ Codigo otimizado
+++ Tradução
+++ Correção de falhas
+++ Novos comandos
+++ Conteudo desnecessário removido
+++ Nova database
+++ Melhoria no Desempenho
+++ Correção de bugs
+++ Melhoria na troca de informações
+
+v1.0.0
+++ Adicionado validações no auth
+++ Min e max de login e senha
+++ Melhoria na segurança
+++ Filtro de IP local
+++ Sistema de banimento por mac e ip aperfeiçoado
+++ Autocreate removido
+++ removido o motivo da troca de nick
+++ Mudança no sistema de banimento

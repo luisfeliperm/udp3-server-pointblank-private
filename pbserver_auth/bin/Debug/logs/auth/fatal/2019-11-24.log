@@ -1,0 +1,8 @@
+[19-11-24 01:07:46] System.Net.Sockets.SocketException (0x80004005): Uma solicitação de envio ou recebimento de dados não foi permitida porque o soquete não está conectado e (durante o envio em um soquete de datagrama usando-se uma chamada sendto) não foi fornecido um endereço
+   em System.Net.Sockets.Socket.get_RemoteEndPoint()
+   em Auth.LoginManager.AcceptCallback(IAsyncResult result) na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\LoginManager.cs:linha 34
+[19-11-24 01:28:07] System.ObjectDisposedException: Não é possível acessar um objeto descartado.
+Nome do objeto: 'System.Net.Sockets.Socket'.
+   em System.Net.Sockets.Socket.SetSocketOption(SocketOptionLevel optionLevel, SocketOptionName optionName, Int32 optionValue)
+   em Auth.LoginClient..ctor(Socket client) na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\LoginClient.cs:linha 53
+   em Auth.LoginManager.AcceptCallback(IAsyncResult result) na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\LoginManager.cs:linha 57

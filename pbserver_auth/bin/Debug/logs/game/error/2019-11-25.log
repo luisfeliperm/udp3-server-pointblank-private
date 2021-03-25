@@ -1,0 +1,7 @@
+[19-11-25 12:43:08] [updateDB2] Valores invalidos! SQL [Table] player_missions  [Column]  [VALUES]  [WHERE] owner_id == 5
+
+[19-11-25 12:46:17] [updateDB2] Valores invalidos! SQL [Table] player_missions  [Column]  [VALUES]  [WHERE] owner_id == 5
+
+[19-11-25 12:49:49] [updateDB2] Valores invalidos! SQL [Table] contas  [Column]  [VALUES]  [WHERE] player_id == 5
+[19-11-25 12:55:48] [updateDB2] Valores invalidos! SQL [Table] contas  [Column]  [VALUES]  [WHERE] player_id == 5
+[19-11-25 12:59:08] [updateDB2] Valores invalidos! SQL [Table] contas  [Column]  [VALUES]  [WHERE] player_id == 5

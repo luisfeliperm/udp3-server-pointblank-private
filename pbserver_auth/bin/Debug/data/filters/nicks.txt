@@ -1,0 +1,31 @@
+﻿;; Este é um comentario
+;; Serão bloqueados nicks que tiverem alguma dessas tags
+;; Minusculas e maiusculas não fazem diferença
+
+admin
+gm_
+gm-
+G.M.
+gm.
+-GM-
+-GM
+-g.M
+[
+]
+jogolixo
+pbchapolin
+pbelite
+kyozima
+projectelite
+pbcomand
+pbcommand
+administrador
+moderador
+mod_
+administrator
+adminmaster
+gamemaster
+\
+/
+ 
+,

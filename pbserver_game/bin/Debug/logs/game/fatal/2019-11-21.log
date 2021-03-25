@@ -1,0 +1,95 @@
+[19-11-21 00:34:14] System.IO.DirectoryNotFoundException: Não foi possível localizar uma parte do caminho 'C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\config\game.ini'.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   em System.IO.StreamReader..ctor(String path)
+   em Core.ConfigFile.LoadStrings() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\ConfigFile.cs:linha 32
+[19-11-21 00:34:15] System.TypeInitializationException: O inicializador de tipo de 'Core.sql.SQLjec' acionou uma exceção. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Nome do parâmetro: value
+Valor real era 0.
+   em Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   em Core.sql.SQLjec..ctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 18
+   em Core.sql.SQLjec..cctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 9
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Core.sql.SQLjec.getInstance()
+   em Core.xml.BasicInventoryXML.Load() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\xml\BasicInventoryXML.cs:linha 19
+[19-11-21 00:34:15] System.IO.DirectoryNotFoundException: Não foi possível localizar uma parte do caminho 'C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\config\geral.ini'.
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   em System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   em System.IO.StreamReader..ctor(String path)
+   em Core.ConfigFile.LoadStrings() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\ConfigFile.cs:linha 32
+[19-11-21 00:34:15] System.TypeInitializationException: O inicializador de tipo de 'Core.sql.SQLjec' acionou uma exceção. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Nome do parâmetro: value
+Valor real era 0.
+   em Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   em Core.sql.SQLjec..ctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 18
+   em Core.sql.SQLjec..cctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 9
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Core.sql.SQLjec.getInstance()
+   em Game.data.xml.ChannelsXML.Load(Int32 serverId) na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\data\xml\ChannelsXML.cs:linha 29
+[19-11-21 00:34:15] System.TypeInitializationException: O inicializador de tipo de 'Core.sql.SQLjec' acionou uma exceção. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Nome do parâmetro: value
+Valor real era 0.
+   em Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   em Core.sql.SQLjec..ctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 18
+   em Core.sql.SQLjec..cctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 9
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Core.sql.SQLjec.getInstance()
+   em Core.managers.events.EventVisitSyncer.GenerateList() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\managers\events\EventVisitSyncer.cs:linha 19
+[19-11-21 00:34:15] System.TypeInitializationException: O inicializador de tipo de 'Core.sql.SQLjec' acionou uma exceção. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Nome do parâmetro: value
+Valor real era 0.
+   em Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   em Core.sql.SQLjec..ctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 18
+   em Core.sql.SQLjec..cctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 9
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Core.sql.SQLjec.getInstance()
+   em Core.managers.events.EventLoginSyncer.GenerateList() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\managers\events\EventLoginSyncer.cs:linha 18
+[19-11-21 00:34:15] System.TypeInitializationException: O inicializador de tipo de 'Core.sql.SQLjec' acionou uma exceção. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Nome do parâmetro: value
+Valor real era 0.
+   em Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   em Core.sql.SQLjec..ctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 18
+   em Core.sql.SQLjec..cctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 9
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Core.sql.SQLjec.getInstance()
+   em Core.managers.events.EventQuestSyncer.GenerateList() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\managers\events\EventQuestSyncer.cs:linha 19
+[19-11-21 00:34:15] System.TypeInitializationException: O inicializador de tipo de 'Core.sql.SQLjec' acionou uma exceção. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Nome do parâmetro: value
+Valor real era 0.
+   em Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   em Core.sql.SQLjec..ctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 18
+   em Core.sql.SQLjec..cctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 9
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Core.sql.SQLjec.getInstance()
+   em Core.managers.events.EventXmasSyncer.GenerateList() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\managers\events\EventXmasSyncer.cs:linha 17
+[19-11-21 00:34:15] System.TypeInitializationException: O inicializador de tipo de 'Core.sql.SQLjec' acionou uma exceção. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Nome do parâmetro: value
+Valor real era 0.
+   em Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   em Core.sql.SQLjec..ctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 18
+   em Core.sql.SQLjec..cctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 9
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Core.sql.SQLjec.getInstance()
+   em Game.data.managers.ClanManager.Load() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\data\managers\ClanManager.cs:linha 20
+[19-11-21 00:34:16] System.TypeInitializationException: O inicializador de tipo de 'Core.sql.SQLjec' acionou uma exceção. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Nome do parâmetro: value
+Valor real era 0.
+   em Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   em Core.sql.SQLjec..ctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 18
+   em Core.sql.SQLjec..cctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 9
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Core.sql.SQLjec.getInstance()
+   em Core.xml.RankXML.LoadAwards() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\xml\RankXML.cs:linha 94
+[19-11-21 00:34:16] System.TypeInitializationException: O inicializador de tipo de 'Core.sql.SQLjec' acionou uma exceção. ---> System.ArgumentOutOfRangeException: Invalid port: 0
+Nome do parâmetro: value
+Valor real era 0.
+   em Npgsql.NpgsqlConnectionStringBuilder.set_Port(Int32 value)
+   em Core.sql.SQLjec..ctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 18
+   em Core.sql.SQLjec..cctor() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\sql\SQLjec.cs:linha 9
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em Core.sql.SQLjec.getInstance()
+   em Core.xml.MissionsXML.Load() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\xml\MissionsXML.cs:linha 18

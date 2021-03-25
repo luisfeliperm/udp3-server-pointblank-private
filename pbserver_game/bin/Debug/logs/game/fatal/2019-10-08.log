@@ -1,0 +1,7 @@
+[19-10-08 14:04:45] System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\config\game.ini'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at Core.ConfigFile.LoadStrings() in C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\ConfigFile.cs:line 31

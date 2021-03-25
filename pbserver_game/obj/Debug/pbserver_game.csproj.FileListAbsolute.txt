@@ -1,0 +1,125 @@
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_game.exe.config
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\Npgsql.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_core.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\System.ValueTuple.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_core.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_core.dll.config
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\Npgsql.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\Npgsql.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\System.ValueTuple.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.csproj.GenerateResource.cache
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.csproj.CopyComplete
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_game.exe.config
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\CrashReporter.NET.dll
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\Npgsql.dll
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_core.dll
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\System.ValueTuple.dll
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_core.pdb
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\pbserver_core.dll.config
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\CrashReporter.NET.pdb
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\CrashReporter.NET.xml
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\CrashReporter.NET.dll.config
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\Npgsql.pdb
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\Npgsql.xml
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\bin\Debug\System.ValueTuple.xml
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.csproj.GenerateResource.cache
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.csproj.CopyComplete
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\SCR - MoMzGames\pbserver_game\obj\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames\pbserver_game\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\pbserver_game.exe.config
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\Npgsql.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\pbserver_core.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\System.ValueTuple.dll
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\pbserver_core.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\pbserver_core.dll.config
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\Npgsql.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\Npgsql.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\bin\Debug\System.ValueTuple.xml
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\obj\Debug\pbserver_game.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\obj\Debug\pbserver_game.csproj.GenerateResource.cache
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\obj\Debug\pbserver_game.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\obj\Debug\pbserver_game.csproj.CopyComplete
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\obj\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\Desenvolvimento\SCR - MoMzGames - Copia\pbserver_game\obj\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\pbserver_game.exe.config
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\Npgsql.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\pbserver_core.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\System.ValueTuple.dll
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\pbserver_core.pdb
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\pbserver_core.dll.config
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\Npgsql.pdb
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\Npgsql.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_game\bin\Debug\System.ValueTuple.xml
+C:\Users\luisf\Desktop\Server Client\pbserver_game\obj\Debug\pbserver_game.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\Server Client\pbserver_game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\luisf\Desktop\Server Client\pbserver_game\obj\Debug\pbserver_game.csproj.GenerateResource.cache
+C:\Users\luisf\Desktop\Server Client\pbserver_game\obj\Debug\pbserver_game.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Server Client\pbserver_game\obj\Debug\pbserver_game.csproj.CopyComplete
+C:\Users\luisf\Desktop\Server Client\pbserver_game\obj\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\Server Client\pbserver_game\obj\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\pbserver_game.exe.config
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\Newtonsoft.Json.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\Npgsql.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\pbserver_core.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\System.ValueTuple.dll
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\pbserver_core.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\pbserver_core.dll.config
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\Newtonsoft.Json.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\Npgsql.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\Npgsql.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\bin\Debug\System.ValueTuple.xml
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\obj\Debug\pbserver_game.csprojAssemblyReference.cache
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\obj\Debug\pbserver_game.csproj.GenerateResource.cache
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\obj\Debug\pbserver_game.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\obj\Debug\pbserver_game.csproj.CopyComplete
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\obj\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_game\obj\Debug\pbserver_game.pdb
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\bin\Debug\pbserver_game.exe.config
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\bin\Debug\pbserver_game.exe
+C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\bin\Debug\pbserver_game.pdb

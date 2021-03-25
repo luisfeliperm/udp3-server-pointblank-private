@@ -1,0 +1,4 @@
+[19-11-29 23:56:37] System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: ipString
+   em System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   em Core.xml.ServersXML.Load() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_data\xml\ServersXML.cs:linha 68

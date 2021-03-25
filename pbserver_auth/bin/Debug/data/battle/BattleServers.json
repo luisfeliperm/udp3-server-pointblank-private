@@ -1,0 +1,19 @@
+/*
++ PublicIP	Endereço IP que a client irá se comunicar, coloque o endereço de ip externo
++ port		Endereço de porta da battle, esta a client enviará os pacotes nesta porta.
+
+[SYNC]
++ IPSync	Este não deve ser visto pelo usuario, portanto, é recomendado colocar o IP Local do servidor (ex: 192.168.0.10). Você também pode colocar o IP externo mas não é recomendado
++ PortSync	Porta do sync
+
+[!]Voce pode adicionar mais de um servidor
+
+*/
+[
+  {
+    "PublicIP":   "45.70.127.144",
+    "Port":       40009,
+    "IPSync":     "10.10.10.100",
+    "PortSync":   1910
+  }
+]

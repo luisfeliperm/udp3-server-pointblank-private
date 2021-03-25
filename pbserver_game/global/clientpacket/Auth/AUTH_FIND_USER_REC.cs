@@ -1,0 +1,39 @@
+﻿using Core.Logs;
+using Game.data.managers;
+using Game.data.model;
+using Game.global.serverpacket;
+using System;
+
+namespace Game.global.clientpacket
+{
+    public class AUTH_FIND_USER_REC : ReceiveGamePacket
+    {
+        private string name;
+        public AUTH_FIND_USER_REC(GameClient client, byte[] data)
+        {
+            makeme(client, data);
+        }
+
+        public override void read()
+        {
+            name = readS(33);
+        }
+
+        public override void run()
+        {
+            try
+            {
+                Account p = _client._player;
+                if (p == null || p.player_name.Length == 0 || p.player_name == name)
+                    return;
+                Account user = AccountManager.getAccount(name, 1, 0);
+                _client.SendPacket(new AUTH_FIND_USER_PAK(user == null ? 2147489795 : !user._isOnline ? 2147489796 : 0, user));
+            }
+            catch (Exception ex)
+            {
+                SaveLog.fatal(ex.ToString());
+                Printf.b_danger("[AUTH_FIND_USER_REC.run] Erro fatal!");
+            }
+        }
+    }
+}

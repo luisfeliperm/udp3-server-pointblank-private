@@ -1,0 +1,12 @@
+[19-12-24 12:22:13] System.Net.Sockets.SocketException (0x80004005): O endereço solicitado não é válido no contexto
+   em System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   em System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   em Auth.LoginManager.Start() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\LoginManager.cs:linha 20
+[19-12-24 12:22:45] System.Net.Sockets.SocketException (0x80004005): O endereço solicitado não é válido no contexto
+   em System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   em System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   em Auth.LoginManager.Start() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\LoginManager.cs:linha 20
+[19-12-24 12:24:25] System.Net.Sockets.SocketException (0x80004005): O endereço solicitado não é válido no contexto
+   em System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   em System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   em Auth.LoginManager.Start() na C:\Users\luisf\Desktop\Desenvolvimento\Server\Src - UDP3 RM\pbserver_auth\LoginManager.cs:linha 20
